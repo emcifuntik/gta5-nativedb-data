@@ -3326,7 +3326,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xA9A41C1E940FB0E8": {
 			"name": "DISABLE_PED_PAIN_AUDIO",
@@ -6962,7 +6962,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x103991D4A307D472": {
 			"name": "_SET_GAMEPLAY_CAM_RAW_YAW",
@@ -7344,7 +7344,7 @@
 			"comment": "B*",
 			"params": [],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x33E6C8EFD0CD93E9": {
 			"name": "GET_FOLLOW_PED_CAM_ZOOM_LEVEL",
@@ -7424,7 +7424,7 @@
 				}
 			],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xEE82280AB767B690": {
 			"name": "GET_FOLLOW_VEHICLE_CAM_ZOOM_LEVEL",
@@ -9129,7 +9129,7 @@
 			"comment": "GET_CUTSCENE_*",
 			"params": [],
 			"return_type": "int",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x40C8656EDAEDD569": {
 			"name": "WAS_CUTSCENE_SKIPPED",
@@ -10791,7 +10791,7 @@
 			"comment": "GET_IS_LOADING_*",
 			"params": [],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x46E2B844905BC5F0": {
 			"name": "HAS_CLOUD_REQUESTS_FINISHED",
@@ -13788,7 +13788,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x1C99BB7B6E96D16F": {
 			"name": "SET_ENTITY_VELOCITY",
@@ -14427,7 +14427,7 @@
 				}
 			],
 			"return_type": "Vector3",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xB328DCC3A3AA401B": {
 			"name": "_0xB328DCC3A3AA401B",
@@ -14781,7 +14781,7 @@
 					"name": "index"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "outComponent"
 				}
 			],
@@ -14794,7 +14794,7 @@
 			"comment": "",
 			"params": [
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "outComponent"
 				}
 			],
@@ -14807,7 +14807,7 @@
 			"comment": "",
 			"params": [
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "outProp"
 				}
 			],
@@ -14882,7 +14882,7 @@
 					"name": "componentId"
 				},
 				{
-					"type": "int*",
+					"type": "void*",
 					"name": "outComponent"
 				}
 			],
@@ -14899,7 +14899,7 @@
 					"name": "componentHash"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "outComponent"
 				}
 			],
@@ -14916,7 +14916,7 @@
 					"name": "p0"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "p1"
 				}
 			],
@@ -14933,7 +14933,7 @@
 					"name": "componentHash"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "outProp"
 				}
 			],
@@ -15030,15 +15030,15 @@
 					"name": "componentId"
 				},
 				{
-					"type": "Any*",
+					"type": "int*",
 					"name": "p2"
 				},
 				{
-					"type": "Any*",
+					"type": "int*",
 					"name": "p3"
 				},
 				{
-					"type": "Any*",
+					"type": "int*",
 					"name": "p4"
 				}
 			],
@@ -15206,7 +15206,7 @@
 					"name": "p0"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "outfit"
 				}
 			],
@@ -15223,7 +15223,7 @@
 					"name": "p0"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "p1"
 				}
 			],
@@ -15316,7 +15316,7 @@
 					"name": "dlcVehicleIndex"
 				},
 				{
-					"type": "int*",
+					"type": "void*",
 					"name": "outData"
 				}
 			],
@@ -15354,7 +15354,7 @@
 					"name": "dlcWeaponIndex"
 				},
 				{
-					"type": "int*",
+					"type": "void*",
 					"name": "outData"
 				}
 			],
@@ -15579,7 +15579,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x056A8A219B8E829F": {
 			"name": "STOP_FIRE_IN_RANGE",
@@ -17810,7 +17810,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x615D3925E87A3B26": {
 			"name": "_0x615D3925E87A3B26",
@@ -18491,7 +18491,7 @@
 				}
 			],
 			"return_type": "float",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xAFF33B1178172223": {
 			"name": "_SET_BINK_MOVIE_UNK",
@@ -26877,7 +26877,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xB7B873520C84C118": {
 			"name": "_0xB7B873520C84C118",
@@ -26885,7 +26885,7 @@
 			"comment": "SET_C*",
 			"params": [],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xEAA0FFE120D92784": {
 			"name": "SET_BLIP_NAME_FROM_TEXT_FILE",
@@ -27378,7 +27378,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xAE9FC9EF6A9FAC79": {
 			"name": "SET_BLIP_PRIORITY",
@@ -28973,7 +28973,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x09C0403ED9A751C2": {
 			"name": "IS_SCRIPTED_HUD_COMPONENT_HIDDEN_THIS_FRAME",
@@ -32991,7 +32991,7 @@
 				}
 			],
 			"return_type": "int",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xC906A7DAB05C8D2B": {
 			"name": "GET_GROUND_Z_FOR_3D_COORD",
@@ -38206,7 +38206,7 @@
 				}
 			],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x394DCDB9E836B7A9": {
 			"name": "_NETWORK_CASINO_CAN_PURCHASE_CHIPS_WITH_PVC",
@@ -38214,7 +38214,7 @@
 			"comment": "Same as 0x8968D4D8C6C40C11.\n\nNETWORK_C*",
 			"params": [],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xF62F6D9528358FE4": {
 			"name": "_NETWORK_CASINO_CAN_GAMBLE",
@@ -38227,7 +38227,7 @@
 				}
 			],
 			"return_type": "BOOL",
-			"build": "1734",
+			"build": "1737",
 			"unused": true
 		},
 		"0x8968D4D8C6C40C11": {
@@ -38236,7 +38236,7 @@
 			"comment": "Same as 0x394DCDB9E836B7A9.\n\nNETWORK_C*",
 			"params": [],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x3BD101471C7F9EEC": {
 			"name": "_NETWORK_CASINO_PURCHASE_CHIPS",
@@ -38253,7 +38253,7 @@
 				}
 			],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xED44897CB336F480": {
 			"name": "_NETWORK_CASINO_SELL_CHIPS",
@@ -38270,7 +38270,7 @@
 				}
 			],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xCD0F5B5D932AE473": {
 			"name": "_0xCD0F5B5D932AE473",
@@ -38435,7 +38435,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xC8407624CEF2354B": {
 			"name": "_NETWORK_EARN_FROM_PREMIUM_JOB",
@@ -42555,7 +42555,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x5128DF14A5BB86FC": {
 			"name": "_NETWORK_EARN_FROM_DAILY_OBJECTIVE_EVENT",
@@ -42568,7 +42568,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xFBBE0570EDF39D46": {
 			"name": "_NETWORK_SPENT_CASINO_MEMBERSHIP",
@@ -42593,7 +42593,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x34A6FC4D06C4DA0F": {
 			"name": "_NETWORK_SPENT_BUY_CASINO",
@@ -42618,7 +42618,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x4740D62BC1B4EBEA": {
 			"name": "_NETWORK_SPENT_UPGRADE_CASINO",
@@ -42643,7 +42643,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x88BF9B612B84D3C3": {
 			"name": "_NETWORK_SPENT_CASINO_GENERIC",
@@ -42672,7 +42672,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x0819DB99FD2FBBD8": {
 			"name": "_NETWORK_EARN_FROM_TIME_TRIAL_WIN",
@@ -42685,7 +42685,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734",
+			"build": "1737",
 			"unused": true
 		},
 		"0x84FF63BD4966F33D": {
@@ -42699,7 +42699,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734",
+			"build": "1737",
 			"unused": true
 		},
 		"0x5517F90043466049": {
@@ -42713,7 +42713,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x83AD64F53F4E9483": {
 			"name": "_NETWORK_EARN_FROM_COMPLETE_COLLECTION",
@@ -42726,7 +42726,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x8BCB27A057DF7B7F": {
 			"name": "_NETWORK_EARN_FROM_SELLING_VEHICLE",
@@ -42739,7 +42739,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x566FD402B25787DE": {
 			"name": "_NETWORK_EARN_FROM_CASINO_MISSION_REWARD",
@@ -42752,7 +42752,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xAC95ED552157E092": {
 			"name": "_NETWORK_EARN_FROM_CASINO_STORY_MISSION_REWARD",
@@ -42765,7 +42765,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x09E8F18641BE2575": {
 			"name": "_NETWORK_EARN_FROM_CASINO_MISSION_PARTICIPATION",
@@ -42778,7 +42778,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734",
+			"build": "1737",
 			"unused": true
 		},
 		"0x973A9781A34F8DEB": {
@@ -42796,7 +42796,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x76EF28DA05EA395A": {
 			"name": "NETWORK_GET_VC_BANK_BALANCE",
@@ -43691,7 +43691,7 @@
 			"comment": "",
 			"params": [],
 			"return_type": "Player",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x4237E822315D8BA9": {
 			"name": "_0x4237E822315D8BA9",
@@ -43886,7 +43886,7 @@
 			"comment": "Hardcoded to return false.",
 			"params": [],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x1F7BC3539F9E0224": {
 			"name": "_0x1F7BC3539F9E0224",
@@ -49035,7 +49035,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x5FCF4D7069B09026": {
 			"name": "_NETWORK_IS_TEXT_CHAT_ACTIVE",
@@ -49771,7 +49771,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xAAA553E7DD28A457": {
 			"name": "SET_NETWORK_CUTSCENE_ENTITIES",
@@ -51221,7 +51221,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xCF8BD3B0BD6D42D7": {
 			"name": "_NETWORK_FORCE_LOCAL_USE_OF_SYNCED_SCENE_CAMERA",
@@ -52314,7 +52314,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x301A42153C9AD707": {
 			"name": "NETWORK_EXPLODE_VEHICLE",
@@ -54440,7 +54440,7 @@
 			"comment": "NETWORK_S*",
 			"params": [],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x659CF2EF7F550C4F": {
 			"name": "_NETWORK_HAS_GAME_BEEN_ALTERED",
@@ -54723,7 +54723,7 @@
 				}
 			],
 			"return_type": "int",
-			"build": "1734"
+			"build": "1737"
 		}
 	},
 	"OBJECT": {
@@ -54863,7 +54863,7 @@
 				}
 			],
 			"return_type": "BOOL",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x2FDFF4107B8C1147": {
 			"name": "SLIDE_OBJECT",
@@ -57030,7 +57030,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x53E0DF1A2A3CF0CA": {
 			"name": "SET_TEAM_PICKUP_OBJECT",
@@ -57412,7 +57412,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xBFFE53AE7E67FCDC": {
 			"name": "_0xBFFE53AE7E67FCDC",
@@ -70884,7 +70884,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		}
 	},
 	"PHYSICS": {
@@ -76766,7 +76766,7 @@
 					"name": "index"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "outData"
 				}
 			],
@@ -80370,7 +80370,7 @@
 			"comment": "Sets profile setting 939",
 			"params": [],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xF1A1803D3476F215": {
 			"name": "_0xF1A1803D3476F215",
@@ -82100,7 +82100,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xCD0A8A9338681CF2": {
 			"name": "_PLAYSTATS_COLLECTIBLE",
@@ -82149,7 +82149,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xFCCCAC2BD3C1F180": {
 			"name": "_PLAYSTATS_CASINO_STORY_MISSION_ENDED",
@@ -82166,7 +82166,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x0999F3F090EC5012": {
 			"name": "_PLAYSTATS_CASINO_CHIP",
@@ -82179,7 +82179,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x95101C443A84E7F1": {
 			"name": "_PLAYSTATS_CASINO_ROULETTE",
@@ -82192,7 +82192,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x3EAE97309727E7AD": {
 			"name": "_PLAYSTATS_CASINO_BLACKJACK",
@@ -82205,7 +82205,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xF740FB339D471C35": {
 			"name": "_PLAYSTATS_CASINO_THREECARDPOKER",
@@ -82218,7 +82218,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xEF5EC67D392B830A": {
 			"name": "_PLAYSTATS_CASINO_SLOTMACHINE",
@@ -82231,7 +82231,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x049F059625058A86": {
 			"name": "_PLAYSTATS_CASINO_INSIDETRACK",
@@ -82244,7 +82244,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x0C432C1435F5E4FA": {
 			"name": "_PLAYSTATS_CASINO_LUCKYSEVEN",
@@ -82257,7 +82257,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x6572ABA3DE1197FC": {
 			"name": "_PLAYSTATS_CASINO_ROULETTE_LIGHT",
@@ -82270,7 +82270,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xD5451C7BF151EB6F": {
 			"name": "_PLAYSTATS_CASINO_BLACKJACK_LIGHT",
@@ -82283,7 +82283,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xC9001364B4388F22": {
 			"name": "_PLAYSTATS_CASINO_THREECARDPOKER_LIGHT",
@@ -82296,7 +82296,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0xE60054A0FAE8227F": {
 			"name": "_PLAYSTATS_CASINO_SLOTMACHINE_LIGHT",
@@ -82309,7 +82309,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x23A3CBCD50D54E47": {
 			"name": "_PLAYSTATS_CASINO_INSIDETRACK_LIGHT",
@@ -82322,7 +82322,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x533A7D1EA58DF958": {
 			"name": "_PLAYSTATS_ARCADEGAME",
@@ -82355,7 +82355,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x1A0D4A6C336B7BC5": {
 			"name": "_PLAYSTATS_CASINO_MISSION_ENDED",
@@ -82368,7 +82368,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		}
 	},
 	"STREAMING": {
@@ -103901,7 +103901,7 @@
 				}
 			],
 			"return_type": "void",
-			"build": "1734"
+			"build": "1737"
 		},
 		"0x475768A975D5AD17": {
 			"name": "IS_PED_ARMED",
@@ -105269,7 +105269,7 @@
 					"name": "weaponHash"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "outData"
 				}
 			],
@@ -105286,7 +105286,7 @@
 					"name": "componentHash"
 				},
 				{
-					"type": "int*",
+					"type": "void*",
 					"name": "outData"
 				}
 			],
