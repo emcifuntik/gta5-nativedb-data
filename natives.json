@@ -64883,7 +64883,7 @@
 					"name": "ped"
 				},
 				{
-					"type": "Any*",
+					"type": "void*",
 					"name": "headBlendData"
 				}
 			],
